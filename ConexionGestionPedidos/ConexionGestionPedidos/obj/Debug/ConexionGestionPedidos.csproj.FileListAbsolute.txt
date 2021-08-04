@@ -1,0 +1,17 @@
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe.config
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.pdb
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.AssemblyReference.cache
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\MainWindow.g.cs
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\App.g.cs
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.cache
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.lref
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\MainWindow.baml
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.g.resources
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.Properties.Resources.resources
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.GenerateResource.cache
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.CoreCompileInputs.cache
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.exe
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.pdb
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\Actualiza.g.cs
+D:\lenguajes\C#\ConexionBBDD\ConexionGestionPedidos\ConexionGestionPedidos\obj\Debug\Actualiza.baml
